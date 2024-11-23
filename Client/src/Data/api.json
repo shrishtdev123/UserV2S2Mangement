@@ -1,0 +1,42 @@
+[
+    {    "id":1,
+        "name":"lovey sing",
+        "age":21,
+        "role":"admin",
+        "status":"inactive",
+        "email":"lovely@gmail.com",
+        "salary":200000
+    },
+    {    "id":2,
+        "name":"Beauty sing",
+        "age":21,
+        "role":"fronened",
+        "status":"active",
+        "email":"Buety@gmail.com",
+        "salary":200000
+    },
+    {    "id":3,
+        "name":"Beauty tiwari",
+        "age":21,
+        "role":"backend",
+        "status":"active",
+        "email":"lovelytiwari@gmail.com",
+        "salary":200000
+    },
+    {    "id":4,
+        "name":"Beauty tiwari",
+        "age":21,
+        "role":"fullstack",
+        "status":"inactive",
+        "email":"lovely@123gmail.com",
+        "salary":200000
+    },
+    {    "id":5,
+        "name":"Beauty tiwari",
+        "age":21,
+        "role":"Java Delepoer",
+        "status":"inactive",
+        "email":"lovely@456gmail.com",
+        "salary":200000
+    }
+]
